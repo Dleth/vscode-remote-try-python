@@ -333,6 +333,7 @@ ASALocalRun/
 
 # jupyter notebook files
 *.ipynb
+!sample.ipynb
 
 # data files
 *.csv
