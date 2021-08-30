@@ -55,7 +55,7 @@ Some things to try:
    - Add a breakpoint .
    - Press <kbd>F5</kbd> to run code.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
-   - Continue (<kbd>F5</kbd>). .
+   - Continue (<kbd>F5</kbd>). 
 
 4. **Rebuild or update your container**
 
