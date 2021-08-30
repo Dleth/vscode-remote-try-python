@@ -330,3 +330,10 @@ ASALocalRun/
 .mfractor/
 
 *.DS_Store
+
+# jupyter notebook files
+*.ipynb
+
+# data files
+*.csv
+*.xlsx
