@@ -52,7 +52,7 @@ Some things to try:
 
 3. **Build, Run, and Debug:**
    - Open `sample.ipynb`
-   - select the Export button in the top main toolbar from <kbd>...<kbd> and export the notebook to a .py file.
+   - select the Export button in the top main toolbar from <kbd>...</kbd> and export the notebook to a `.py` file.
    - Open exported `.py` file
    - Add a breakpoint .
    - Press <kbd>F5</kbd> to run code.
