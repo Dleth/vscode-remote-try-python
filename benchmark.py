@@ -1,7 +1,7 @@
 import random
 import time
 
-n = 512
+n = 128
 
 #populate the matrices with random values between 0.0 and 1.0
 A = [[random.random() for row in range(n)] for col in range(n)]
