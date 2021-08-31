@@ -52,10 +52,13 @@ Some things to try:
 
 3. **Build, Run, and Debug:**
    - Open `sample.ipynb`
+   - select the Export button in the top main toolbar from <kbd>...<kbd> and export the notebook to a `.py` file.
+   - Open exported `.py` file
    - Add a breakpoint .
    - Press <kbd>F5</kbd> to run code.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
    - Continue (<kbd>F5</kbd>). 
+   - When you're satisfied that all your code is correct, use the Python Interactive window to export the Python file as a Jupyter Notebook `(.ipynb)`.
 
 4. **Rebuild or update your container**
 
