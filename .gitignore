@@ -338,3 +338,6 @@ ASALocalRun/
 # data files
 *.csv
 *.xlsx
+
+# data folder
+data/
