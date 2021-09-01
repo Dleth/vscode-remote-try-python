@@ -333,7 +333,7 @@ ASALocalRun/
 
 # jupyter notebook files
 *.ipynb
-!sample.ipynb
+!Data Science Tutorial.ipynb
 
 # data folder
 data/
