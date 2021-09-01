@@ -335,9 +335,5 @@ ASALocalRun/
 *.ipynb
 !sample.ipynb
 
-# data files
-*.csv
-*.xlsx
-
 # data folder
 data/
