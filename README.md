@@ -41,7 +41,7 @@ Once you have this sample opened, you'll be able to work with it like you would 
 Some things to try:
 
 1. **Edit:**
-   - Open `sample.ipynb`
+   - Open `Data Science Tutorial.ipynb`
    - Try adding some code and check out the language features.
 
 2. **Terminal:** 
@@ -51,14 +51,12 @@ Some things to try:
     
 
 3. **Build, Run, and Debug:**
-   - Open `sample.ipynb`
-   - select the Export button in the top main toolbar from <kbd>...</kbd> and export the notebook to a `.py` file.
-   - Open exported `.py` file
+   - Open `Data Science.ipynb`
+   - select <kbd>Debug Cell</kbd> from the more button next to the run button on the left side of the cell you want to debug.
    - Add a breakpoint .
    - Press <kbd>F5</kbd> to run code.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
    - Continue (<kbd>F5</kbd>). 
-   - When you're satisfied that all your code is correct, use the Python Interactive window to export the Python file as a Jupyter Notebook `(.ipynb)`.
 
 4. **Rebuild or update your container**
 
