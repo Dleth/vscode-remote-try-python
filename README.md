@@ -52,9 +52,9 @@ Some things to try:
 
 3. **Build, Run, and Debug:**
    - Open `Data Science.ipynb`
-   - Select the cell you want to bug.
+   - Select the cell you want to bug (make sure you run the necessary cells before, otherwise there will be error).
    - Press<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>Enter</kbd>/On the left side of the cell, select **Debug Cell** from the more button next to the run button.
-   - Add a breakpoint .
+   - Add breakpoint(s).
    - Press <kbd>F5</kbd> to run code.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
    - Continue (<kbd>F5</kbd>). 
