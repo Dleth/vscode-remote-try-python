@@ -1,5 +1,5 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.195.0/containers/python-3
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.203.3/containers/python-3
 {
 	"name": "Python 3",
 	"build": {
@@ -20,9 +20,8 @@
 				"path": "/bin/bash"
 			}
 		},
-		"terminal.integrated.defaultProfile.linux": "bash",
-		"python.pythonPath": "/usr/local/bin/python",
-		"python.languageServer": "Pylance",
+		"python.defaultInterpreterPath": "/usr/local/bin/python",
+		"python.languageServer": "Default",
 		"python.linting.enabled": true,
 		"python.linting.pylintEnabled": true,
 		"python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
