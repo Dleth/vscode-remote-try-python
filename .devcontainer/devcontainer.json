@@ -41,7 +41,8 @@
 		"ms-python.python",
 		"ms-python.vscode-pylance",
 		"ms-toolsai.jupyter",
-		"visualstudioexptteam.vsco"
+		"VisualStudioExptTeam.vscodeintellicode",
+		"GitHub.vscode-pull-request-github",
 		//"github.copilot"
 	],
 
